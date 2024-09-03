@@ -1,0 +1,32 @@
+{
+  "name": "react-native-multi-slider",
+  "version": "1.0.0",
+  "description": "react native multi select slider bar",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShellyAmbar/react-native-multi-slider.git"
+  },
+  "keywords": [
+    "slider",
+    "slider",
+    "bar",
+    "multi",
+    "select"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-reanimated": "*",
+    "react-native-gesture-handler": "*"
+  },
+  "author": "Shelly Ambar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShellyAmbar/react-native-multi-slider/issues"
+  },
+  "homepage": "https://github.com/ShellyAmbar/react-native-multi-slider#readme"
+}
