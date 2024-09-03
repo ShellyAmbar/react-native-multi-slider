@@ -36,7 +36,7 @@ import MultiSlider from 'react-native-multi-slider';
 
 # Example:
 
-![ ](./assets/videos/video.gif)
+![ ](./assets/videos/1.gif)
 
 > **Dataset Properties**
 
