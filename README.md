@@ -1,23 +1,23 @@
-- react-native-multi-slider is A dynamic Multi slider bar that response to the touch with react native animation and has a minimum and maximum select.
+- react-native-range-bar is A dynamic Multi slider bar that response to the touch with react native animation and has a minimum and maximum select.
 
 - It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
 
 # Installation:
 
 ```
-npm i react-native-multi-slider
+npm i react-native-range-bar
 
 ```
 
 ```ruby
-yarn add react-native-multi-slider
+yarn add react-native-range-bar
 
 ```
 
 # Usage:
 
 ```
-import MultiSlider from 'react-native-multi-slider';
+import MultiSlider from 'react-native-range-bar';
 
 
   <MultiSlider
